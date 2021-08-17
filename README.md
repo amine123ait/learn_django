@@ -5,5 +5,5 @@
 
 ## PDFs
 
-[DAY_1](./pdf/day1.md)
+[DAY_1](https://github.com/amine123ait/learn_django/blob/master/pdf/day1.pdf)
 
